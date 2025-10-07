@@ -9,11 +9,11 @@ import re
 # =========================
 # Configuration
 # =========================
-BACKUP_DIR = "/home/hassan/Documents/postgres_backup"  # فولدر حاوی .dump ها
-PG_HOST = "172.16.61.156"
+BACKUP_DIR = "/home/ha_post/Documents/postgres_backup"
+PG_HOST = "172.16.72.130"
 PG_PORT = 5432
-PG_USER = "postgres"
-PG_PASS = "postgres123"
+PG_USER = "dpodssgdtg123res"
+PG_PASS = "ss42a1sdadatgresds155613"
 
 # =========================
 # Logging setup
